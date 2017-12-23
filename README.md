@@ -1,4 +1,4 @@
-# node-http-methods
+# node-http-methods [![Build Status](https://travis-ci.org/aks-/node-http-methods.svg?branch=master)](https://travis-ci.org/aks-/node-http-methods)
 
 > Get the http request methods allowed by node http module, which is also used by express etc frameworks
 
