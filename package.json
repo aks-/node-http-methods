@@ -6,6 +6,9 @@
   "main": "index.js",
   "author": "Ashok Suthar <suthar.ashok@outlook.com, coderatlabs@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  },
   "scripts": {
     "test": "tap test.js"
   },
